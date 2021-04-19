@@ -1,0 +1,13 @@
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.exe
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.deps.json
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.runtimeconfig.json
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.runtimeconfig.dev.json
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.dll
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\bin\Debug\netcoreapp3.1\ObserverPatterns.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.csprojAssemblyReference.cache
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.AssemblyInfoInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.AssemblyInfo.cs
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.csproj.CoreCompileInputs.cache
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.dll
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.pdb
+C:\Users\malte.erlandsson\Documents\GitHub\DessignPatterns\ObserverPatterns\ObserverPatterns\obj\Debug\netcoreapp3.1\ObserverPatterns.genruntimeconfig.cache

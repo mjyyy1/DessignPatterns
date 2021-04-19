@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ObserverPatternDemo-master",
+    "\\ObserverPatternDemo-master\\ObserverPatternDemo",
+    "\\ObserverPatterns",
+    "\\ObserverPatterns\\ObserverPatterns"
   ],
+  "SelectedNode": "\\ObserverPatterns\\ObserverPatterns\\ObserverPatterns.csproj",
   "PreviewInSolutionExplorer": false
 }
